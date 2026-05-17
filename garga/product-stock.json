@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1760447911,
+        "copy_category": "Nepali Copy- A2Ne\/30",
+        "price_per_unit": 30,
+        "total_quantity": 400,
+        "total_value": 12000,
+        "remarks": ""
+    },
+    {
+        "id": 1760448112,
+        "copy_category": "Two-Line Copy- A2T\/30",
+        "price_per_unit": 30,
+        "total_quantity": 740,
+        "total_value": 22200,
+        "remarks": ""
+    },
+    {
+        "id": 1760448236,
+        "copy_category": "Graph Copy- A2G\/30",
+        "price_per_unit": 30,
+        "total_quantity": 288,
+        "total_value": 8640,
+        "remarks": ""
+    },
+    {
+        "id": 1760448645,
+        "copy_category": "Plain Copy (sadha)- A2P\/30",
+        "price_per_unit": 30,
+        "total_quantity": 520,
+        "total_value": 15600,
+        "remarks": ""
+    },
+    {
+        "id": 1760448884,
+        "copy_category": "Plain Copy (Sadha)- A2P\/50",
+        "price_per_unit": 50,
+        "total_quantity": 1946,
+        "total_value": 97300,
+        "remarks": ""
+    },
+    {
+        "id": 1760448982,
+        "copy_category": "Nepali Copy- A2Ne\/50",
+        "price_per_unit": 50,
+        "total_quantity": 240,
+        "total_value": 12000,
+        "remarks": ""
+    },
+    {
+        "id": 1760521811,
+        "copy_category": "Note Copy- A2N\/50",
+        "price_per_unit": 50,
+        "total_quantity": 701,
+        "total_value": 35050,
+        "remarks": ""
+    },
+    {
+        "id": 1760523088,
+        "copy_category": "Four-Line Copy- A2E\/50",
+        "price_per_unit": 50,
+        "total_quantity": 2238,
+        "total_value": 111900,
+        "remarks": ""
+    },
+    {
+        "id": 1760524339,
+        "copy_category": "Square-Box Copy (Kothe)-A2Sq\/50",
+        "price_per_unit": 50,
+        "total_quantity": 2436,
+        "total_value": 121800,
+        "remarks": ""
+    },
+    {
+        "id": 1760524688,
+        "copy_category": "Graph Copy- A2G\/50",
+        "price_per_unit": 50,
+        "total_quantity": 1292,
+        "total_value": 64600,
+        "remarks": ""
+    },
+    {
+        "id": 1760525029,
+        "copy_category": "Science Practical Copy- A2S\/50",
+        "price_per_unit": 50,
+        "total_quantity": 1620,
+        "total_value": 81000,
+        "remarks": ""
+    },
+    {
+        "id": 1768724564,
+        "copy_category": "Two-Line Copy- A2T\/50",
+        "price_per_unit": 50,
+        "total_quantity": 5410,
+        "total_value": 270500,
+        "remarks": ""
+    }
+]

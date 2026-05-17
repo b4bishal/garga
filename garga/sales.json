@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1779009766472",
+        "sale_id": "2026-000001",
+        "customer_name": "test",
+        "customer_email": "wdfdwf@edad.cc",
+        "customer_phone": "231313123",
+        "customer_pan": "3123213213",
+        "customer_address": "123eqwdsd",
+        "copy_category": "Two-Line Copy- A2T\/30",
+        "bulk_qty": "1 bohora",
+        "price_per_unit": 30,
+        "price_per_dozen": 360,
+        "sold_dozen": 15,
+        "sold_unit": 180,
+        "discount": 25,
+        "discount_amount": 1350,
+        "gross_price": 5400,
+        "total_price": 4050,
+        "paid_amount": 0,
+        "due_amount": 4050,
+        "remarks": "",
+        "date": "2026-05-17 09:22:46"
+    }
+]
