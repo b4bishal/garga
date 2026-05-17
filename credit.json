@@ -1,0 +1,28 @@
+[
+    {
+        "sale_id": "2026-000001",
+        "customer_name": "test",
+        "customer_email": "wdfdwf@edad.cc",
+        "customer_phone": "231313123",
+        "customer_pan": "3123213213",
+        "customer_address": "123eqwdsd",
+        "date": "2026-05-17 09:22:46",
+        "total_bill": 4050,
+        "paid_amount": 4000,
+        "due_amount": 0,
+        "payment_history": [
+            {
+                "payment_id": "PMT-2026-000006",
+                "amount": 4000,
+                "discount": 50,
+                "settled_amount": 4050,
+                "date": "2026-05-17 09:23:25",
+                "previous_due": 4050,
+                "remaining_due": 0,
+                "type": "payment_with_discount",
+                "payment_mode": "customer_payment"
+            }
+        ],
+        "discount_amount": 50
+    }
+]

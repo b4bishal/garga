@@ -1,0 +1,146 @@
+[
+    {
+        "payment_id": "PMT-2026-000001",
+        "customer_name": "test",
+        "customer_phone": "231313123",
+        "total_amount": 1000,
+        "date": "2026-05-09 13:02:49",
+        "bills_affected": [
+            "2026-000001"
+        ],
+        "distribution": [
+            {
+                "sale_id": "2026-000001",
+                "original_due": 2888,
+                "paid": 1000,
+                "remaining_due": 1888,
+                "date": "2026-05-09 13:00:16"
+            }
+        ]
+    },
+    {
+        "payment_id": "PMT-2026-000002",
+        "customer_name": "test",
+        "customer_phone": "231313123",
+        "total_amount": 1000,
+        "date": "2026-05-09 13:18:35",
+        "bills_affected": [
+            "2026-000001"
+        ],
+        "distribution": [
+            {
+                "sale_id": "2026-000001",
+                "original_due": 4680,
+                "paid": 1000,
+                "remaining_due": 3680,
+                "date": "2026-05-09 13:06:48"
+            }
+        ]
+    },
+    {
+        "payment_id": "PMT-2026-000003",
+        "customer_name": "test",
+        "customer_phone": "231313123",
+        "total_amount": 3742,
+        "date": "2026-05-09 13:21:38",
+        "bills_affected": [
+            "2026-000001",
+            "2026-000002"
+        ],
+        "distribution": [
+            {
+                "sale_id": "2026-000001",
+                "original_due": 3680,
+                "paid": 3680,
+                "remaining_due": 0,
+                "date": "2026-05-09 13:06:48"
+            },
+            {
+                "sale_id": "2026-000002",
+                "original_due": 10062,
+                "paid": 62,
+                "remaining_due": 10000,
+                "date": "2026-05-09 13:09:39"
+            }
+        ]
+    },
+    {
+        "payment_id": "PMT-2026-000004",
+        "customer_name": "test",
+        "customer_phone": "231313123",
+        "total_amount": 64000,
+        "discount_amount": 0,
+        "settled_amount": 64000,
+        "date": "2026-05-17 09:07:04",
+        "bills_affected": [
+            "2026-000002",
+            "2026-000003"
+        ],
+        "distribution": [
+            {
+                "sale_id": "2026-000002",
+                "original_due": 10000,
+                "paid": 10000,
+                "discount": 0,
+                "settled_amount": 10000,
+                "remaining_due": 0,
+                "date": "2026-05-09 13:09:39"
+            },
+            {
+                "sale_id": "2026-000003",
+                "original_due": 54000,
+                "paid": 54000,
+                "discount": 0,
+                "settled_amount": 54000,
+                "remaining_due": 0,
+                "date": "2026-05-09 13:23:16"
+            }
+        ]
+    },
+    {
+        "payment_id": "PMT-2026-000005",
+        "customer_name": "test",
+        "customer_phone": "231313123",
+        "total_amount": 4000,
+        "discount_amount": 50,
+        "settled_amount": 4050,
+        "date": "2026-05-17 09:13:20",
+        "bills_affected": [
+            "2026-000001"
+        ],
+        "distribution": [
+            {
+                "sale_id": "2026-000001",
+                "original_due": 4050,
+                "paid": 4000,
+                "discount": 50,
+                "settled_amount": 4050,
+                "remaining_due": 0,
+                "date": "2026-05-17 09:08:31"
+            }
+        ]
+    },
+    {
+        "payment_id": "PMT-2026-000006",
+        "customer_name": "test",
+        "customer_phone": "231313123",
+        "total_amount": 4000,
+        "discount_amount": 50,
+        "settled_amount": 4050,
+        "date": "2026-05-17 09:23:25",
+        "bills_affected": [
+            "2026-000001"
+        ],
+        "distribution": [
+            {
+                "sale_id": "2026-000001",
+                "original_due": 4050,
+                "paid": 4000,
+                "discount": 50,
+                "settled_amount": 4050,
+                "remaining_due": 0,
+                "date": "2026-05-17 09:22:46"
+            }
+        ]
+    }
+]

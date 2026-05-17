@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1771482669,
+        "supplier_name": "Bakrangi Paper Product",
+        "address": "Biratnagar, Morang",
+        "contact_number": "9802924514",
+        "pan": "",
+        "email": "",
+        "remarks": "Hemanta",
+        "date_added": "2026-02-19"
+    },
+    {
+        "id": 1771483310,
+        "supplier_name": "Roshan Graphics and Printing Press",
+        "address": "Itahari, Morang",
+        "contact_number": "9804815956",
+        "pan": "",
+        "email": "",
+        "remarks": "Santosh Cover Printing",
+        "date_added": "2026-02-19"
+    },
+    {
+        "id": 1771483463,
+        "supplier_name": "Raju Printing Press",
+        "address": "Birtamode, Jhapa",
+        "contact_number": "9842666424",
+        "pan": "",
+        "email": "",
+        "remarks": "",
+        "date_added": "2026-02-19"
+    },
+    {
+        "id": 1771483864,
+        "supplier_name": "Gajurmukhi Printers",
+        "address": "Biratnagar, Morang",
+        "contact_number": "9852020527",
+        "pan": "",
+        "email": "",
+        "remarks": "",
+        "date_added": "2026-02-19"
+    }
+]
